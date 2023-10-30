@@ -1,5 +1,4 @@
 # CAR SCANNERRS
-Summary:
 My idea perhaps will be  to have AI to design car scan for check up and MOT of vehicles as this is still being done a lot by manual labour. This will reassure customers more and also cutting repeated visits to mechanics and garages for ongoing issues and cut cost for the longer term. This will make most cars safer and cleaner on the road which is important for our environment.
 Background:
 It happens that you take the car for a check up or MOT, they cannot be sure that certain things are in good order or not unless they have to use more labour hours to find  and diagnose the problem. This is very labour intensive and can take a long time to assess. Sometimes this create doubt in customer's mind too as you cannot be certain that the job needs to be done yet or not. It is not so obvious which job is of importance to be done.
